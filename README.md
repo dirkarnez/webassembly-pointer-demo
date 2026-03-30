@@ -1,5 +1,5 @@
-webassembly-pointer-demo
-========================
+[webassembly-pointer-demo](https://dirkarnez.github.io/webassembly-pointer-demo)
+================================================================================
 ### Idea
 - [js] Do heap memory allocation in `WebAssembly.Memory` -> [js] get/set data to it, also remember the beginning address -> [js] pass the beginning address as `i32` (e.g. not pointer `*` type) to .wasm -> [WASM] access the data according to the beginning address by `local.get`
 
