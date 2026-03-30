@@ -5,3 +5,6 @@ webassembly-pointer-demo
 
 ### Tutorials
 - [WebAssembly.Memory - WebAssembly | MDN](https://developer.mozilla.org/en-US/docs/WebAssembly/Reference/JavaScript_interface/Memory)
+  - [webassembly-examples/js-api-examples/memory.wat at main · mdn/webassembly-examples](https://github.com/mdn/webassembly-examples/blob/main/js-api-examples/memory.wat)
+  - [webassembly-examples/js-api-examples/memory.html at main · mdn/webassembly-examples](https://github.com/mdn/webassembly-examples/blob/main/js-api-examples/memory.html)
+- [Compiling C to WebAssembly without Emscripten — surma.dev](https://surma.dev/things/c-to-webassembly/)
